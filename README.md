@@ -12,3 +12,8 @@ behavior
 ========
 
 Will install package AND all dependencies, even optional ones.
+
+dependencies 
+============
+
+bash, pacman
